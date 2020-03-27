@@ -8,6 +8,7 @@ namespace ConsoleApp6
         {
             Console.WriteLine("Hello World!");
             Console.Writeline("Hello World!");
+            //dodan komentar
         }
     }
 }
